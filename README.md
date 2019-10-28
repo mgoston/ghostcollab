@@ -1,0 +1,2 @@
+# ghostcollab
+Collaboration Environment
